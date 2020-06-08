@@ -1,0 +1,143 @@
+<resources>
+    <string name="app_name">Delizioso</string>
+    <!--Navigation bar-->
+    <!--items-->
+    <string name="nav_make_order">Make a new order</string>
+    <string name="nav_show_menu">Our Menu</string>
+    <string name="nav_about">About us</string>
+    <string name="nav_help">Help</string>
+    <string name="nav_feedback">Give us feedback</string>
+    <string name="nav_support">Support</string>
+
+    <!--state-->
+    <string name="nav_open_drawer">Open navigation drawer</string>
+    <string name="nav_close_drawer">Close navigation drawer</string>
+    <!--end Navigation bar-->
+
+    <!--TabLayout items-->
+    <string name="pizza_tab">Pizza</string>
+    <string name="pasta_tab">Pasta</string>
+    <string name="dessert_tab">Dessert</string>
+    <string name="drink_tab">Drinks</string>
+    <!--end TabLayout items-->
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+    <!--Feedback activity-->
+    <string name="input_email">Input your email here</string>
+    <string name="leave_a_comment">Leave a comment</string>
+    <string name="send_opinion">Send opinion</string>
+    <string name="name_input">Input your name here</string>
+    <string name="faq">Frequently Asked Questions</string>
+    <string name="faq_no_question">If you didn\'t find your question, give a feedback where you will ask us. We\'ll answer as soon as possible</string>
+    <string name="composition">Composition:</string>
+    <string name="description">Description</string>
+    <string name="price">Price:</string>
+    <string name="initial_number">1</string>
+    <string name="idea">For us, sustainability is not a lofty idea but a fundamental, and necessary, endeavor. Our concept is about the food and drink of course, but it’s also about our team, our facilities, our practices, and the hundreds of decisions we make each day that affect the world around us. We believe it’s about finding a balance, which allows us to sustain our quest of making quality, accessible food, while also giving back to our community and the environment.</string>
+    <string name="restaurant_image">restaurant_image</string>
+    <string name="how_to_find_us">How to find us?</string>
+    <string name="no_orders">Woops! Seems like you haven\'t ordered anything yet!</string>
+    <string name="want_some_pizza">Want some pizza?</string>
+    <string name="my_order">My order</string>
+    <string name="total">Total:</string>
+    <string name="order">Order</string>
+    <!--end Feedback activity-->
+
+    <!--FAQ-->
+    <string-array name="questions">
+        <item>What can I do if service was bad?</item>
+        <item>What if food is spoiled?</item>
+        <item>Who are your cooks?</item>
+        <item>How can I get discount card?</item>
+        <item>What kitchens do you offer?</item>
+    </string-array>
+
+    <string-array name="answers">
+        <item>You can leave your feedback and we will take action</item>
+        <item>It\'s excluded. We buy the freshest products and cook them so they
+    cannot be overdue, but if something happened, we\'ll return your money</item>
+        <item>Our cooks are masters of their craft.
+        We employ the best specialists from different countries.</item>
+        <item>You have to order for the amount of 2000$
+        in a period of a year and you will get a 20% discount</item>
+        <item>We have cooks from different countries such as Italy, France, The USA </item>
+    </string-array>
+    <!--end FAQ-->
+
+
+    <string-array name="food_names">
+        <item>Strawberry focaccia</item>
+        <item>Diablo</item>
+        <item>Capricioasa</item>
+        <item>Pepperoni</item>
+        <item>Neapolitana</item>
+        <item>Mario</item>
+        <item>Margherita</item>
+        <item>Shrimp fettuccine</item>
+        <item>Cheesecake</item>
+        <item>Muscat</item>
+    </string-array>
+
+    <string-array name="food_descriptions">
+        <item>For a focaccia with a difference, and a bowl of strawberries
+            to use up, you can’t go past this deliciously not-too-sweet focaccia-style bread.</item>
+        <item>Pizza for those who likes hot feels</item>
+        <item>Pizza capricciosa is a style of pizza in Italian cuisine prepared
+            with mozzarella cheese, Italian baked ham, mushroom, artichoke and tomato.
+            Types of edible mushrooms used may include cremini (white mushrooms)and others.
+            Some versions may also use prosciutto (a dry-cured ham), marinated artichoke hearts,
+            olive oil, olives, basil leaves, and egg. Some versions may be prepared using
+            a thin crust.</item>
+        <item>Pepperoni is an American variety of salami, made from cured pork and beef
+            mixed together and seasoned with paprika or other chili pepper.
+            Pepperoni is characteristically soft, slightly smoky, and bright red in color.
+            Thinly sliced pepperoni is a popular pizza topping in American-style pizzerias.</item>
+        <item>Neapolitan pizza also known as Naples style pizza, is a style of pizza made
+            with tomatoes and mozzarella cheese. It must be made with either San Marzano
+            tomatoes or Roma tomatoes, which grow on the volcanic plains to the south of Mount
+            Vesuvius, and Mozzarella di Bufala Campana, a protected designation of origin cheese
+            made with the milk from water buffalo raised in the marshlands of Campania and Lazio
+            in a semi-wild state. Neapolitan pizza is a Traditional Speciality Guaranteed (TSG)
+            product in Europe, and the art of its making is included on UNESCO\'s list of
+            intangible cultural heritage This style pizza gave rise to the New York-style
+            pizza that was first made by Italian immigrants to the United States in the early 20th
+            century.</item>
+
+        <item>Very tasty pizza. It is good for lunch, banquets and everything</item>
+        <item>Pizza Margherita is a typical Neapolitan pizza, made with San Marzano tomatoes,
+            mozzarella cheese, fresh basil, salt and extra-virgin olive oil. Traditionally,
+            it is made with fior di latte (cow\'s milk mozzarella) rather than buffalo mozzarella.
+        </item>
+        <item>Cheesecake is a sweet dessert consisting of one or more layers. </item>
+        <item>Freeze tasty, color pink with aroma pure of muscat. It is perfect with salad of fruits
+            and desserts delicious </item>
+    </string-array>
+
+    <string-array name="composition">
+        <item>vanilla cream, nutella, strawberries, bananas, almond chips, mint, powder.</item>
+        <item>Mozzarella cheese, sausages "cabanos" and "ostrova", "pepperoni",
+            hot pepper, gogoshare, fresh mushrooms, green olives,
+            salami, pizza sauce, basil, olive oil.</item>
+        <item>Mozzarella cheese, ham, eggplant with garlic,
+            ovechet cheese, pickled mushrooms / fresh, mayonnaise, pizza sauce,
+            basil, olive oil.</item>
+        <item>Mozzarella, salami, red pepper, pepper, paprika, pizza sauce, basil, olive oil.</item>
+        <item>Mozzarella cheese, ham, marinated mushrooms / fresh black olives, pizza sauce.</item>
+        <item>Thin crust. Tomato sauce, basil, olive oil, mayonnaise, mozzarella cheese,
+            chicken, cheese Dor Blue, spinach, cottage sausage, peppers.</item>
+        <item>Thin crust. Mozzarella cheese, basil, pizza sauce, olive oil.</item>
+        <item>Pasta fresco, shrimp, pesto sauce, garlic, butter, spinach,
+            cream, Parmesan, eggs, spices.</item>
+        <item>Delicious dessert with a delicate and light taste based on soft cream cheeses with cherries.</item>
+        <item>muscat, alcohol 12,5%</item>
+    </string-array>
+
+
+    <string name="delete_item_message">Are you sure that you want to delete this item?</string>
+    <string name="remove_item">Remove item?</string>
+    <string name="channel_name">channel_001</string>
+    <string name="channel_description">notification_channel</string>
+    <string name="response">Your order is ready!!!</string>
+</resources>
